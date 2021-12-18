@@ -14,7 +14,7 @@ This is a repository showing how to save data in JPDB from an html form.
 </ul>
 
 # Secreenshots :
-![alt text](https://github.com/[gitnoober]/[web-form-jpdb]/blob/[main]/image.png?raw=true)
-Project
+![alt text](https://github.com/gitnoober/web-form-jpdb/blob/main/jpdb.png?raw=true)
+
 
 
